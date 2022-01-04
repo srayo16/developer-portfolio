@@ -34,3 +34,7 @@ section{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 }
+#s{
+    font-size: smaller;
+    color: blue;
+}
