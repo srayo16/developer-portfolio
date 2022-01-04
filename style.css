@@ -8,7 +8,7 @@ h1{
 span{
     color: orange
 }
-section{
+.flexible{
     display: flex;
     margin-bottom: 150px;
 }
@@ -36,6 +36,14 @@ section{
     background-repeat: no-repeat;
 }
 #s{
+    font-size: smaller;
+    color: blue;
+}
+#uri{
+    font-size: smaller;
+    color: blue;
+}
+#uff{
     font-size: smaller;
     color: blue;
 }
