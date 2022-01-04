@@ -1,0 +1,31 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+span{
+    color: orange
+}
+section{
+    display: flex;
+}
+.half-size{
+    width: 50%;
+    padding-left: 5%;
+    
+}
+.half-size img{
+    width: 70%;
+}
+.id-text{
+    text-decoration: none;
+    padding: 10px;
+    background-image: linear-gradient(orange, tomato
+    );
+    border-radius: 5%;
+    font-style: italic;
+    font-weight: 700;
+    color: white;
+
+}
