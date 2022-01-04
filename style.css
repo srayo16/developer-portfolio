@@ -64,7 +64,22 @@ span{
     box-shadow: 10px 10px 30px gray;
     margin-left: 5%;
     margin-right: 5%;
+    
 }
 .font{
     font-size: 35px;
+}
+#bura{
+    border-left: 7px solid ;
+    border-image: linear-gradient(blue, cyan) ;
+    border-image-slice: 1;
+    
+}
+#baby{
+    border-left: 7px solid; 
+    border-image:linear-gradient(red, yellow) ;
+    border-image-slice: 1;
+}
+footer p{
+    text-align: center;
 }
