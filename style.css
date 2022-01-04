@@ -35,6 +35,16 @@ span{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 }
+.second-page{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.third-page{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
 #s{
     font-size: smaller;
     color: blue;
@@ -46,4 +56,15 @@ span{
 #uff{
     font-size: smaller;
     color: blue;
+}
+.dui-vai{
+    width: 50%;
+    padding-left: 5%;
+    border-radius: 10px;
+    box-shadow: 10px 10px 30px gray;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.font{
+    font-size: 35px;
 }
